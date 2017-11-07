@@ -1,0 +1,21 @@
+{
+  "name": "Twitwatch",
+  "description": "A big brother type deal",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "lacymorrow",
+      "email": "me@lacymorrow.com",
+      "web": "lacymorrow.com"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "devDependencies": {
+    "stocktwits": "0.0.4"
+  }
+}
